@@ -6,16 +6,17 @@ const icons = {
   docx: "https://upload.wikimedia.org/wikipedia/commons/f/fb/.docx_icon.svg",
   xls: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg",
   xlsx: "https://upload.wikimedia.org/wikipedia/commons/f/f3/.xlsx_icon.svg",
+  jpg: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnQkzSeVQi8ppmQguKCvfNinYRRW9XUeET_7cSnu54pso-CcxkGus_qYmR7nmoeNo8z4rvlUCNaJVdR6VkhbXBMt6NsqrE7Wo3ysjIb_TWQEgLfroxpSDzsnJgsD1rdUdbtNwGns58ZW92HuB9BOnMOMuIlRTOrFGvKBzij3EhlqPkzNrd5thm3IN6u6yJ/s512/10260602.png",
+  jpeg: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhpKX2-ZVo6azybTvj3Vl3AtW4Oy2pRd9YhZrCsYYVsuzH7DSsmcx7v_OrSryY_A537ER9rhlysXcAVClkWN4I_VT7FNtsz_Vyztrt62U0Lodz611bmHyBb5mmZZZkJF75ZCw0ZEKYX2rS6x3vb09BVOTzGGZm2HLHgkAm9k-PyNePF9YYExjMAEIvIeXP/s512/jpeg-icon.png",
+  png: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Vw_IZLHStYLWLaLidFZ1No2av_DkU4UkZ_pki8oVyukaJPjtASiq6rkI41NIjdi1dRheNPouEzZD-6-rrmH_K7txCq55TSWYZYbGCqPCnEmPk9Um5QFkK8cpfPuFynniDGYpwa5TvH4dT2zKn36qzyJNVrsufDdSBWsZW8mYI-by8jbvKOaprPiJdcRb/s512/337948.png",
+  gif: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDkryULS8JC8QobL_zIoRCdyoSOGMIoVoP-KK-E1dnMp-HvmHwkHtfV7OQuwLgvyS90bYBJ-xmNPfUXPu1Iqs-T54U5cgdVgdmLmPI28kd-gbF8oPGBg0538apuQDcJFUy9FFEJHlhnphqiMPfFzye_-o0cNMMAtYB7ztPP78Q3UtziX3k9oPihwXxrvEr/s640/11237482.gif",
   html: "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
   css: "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
   js: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg",
   php: "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
   zip: "https://upload.wikimedia.org/wikipedia/commons/1/14/Deepin_Icon_Theme_%E2%80%93_application-x-zip_%2841%29.svg",
   rar: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Deepin_Icon_Theme_%E2%80%93_application-x-rar_%2830%29.svg",
-  jpg: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnQkzSeVQi8ppmQguKCvfNinYRRW9XUeET_7cSnu54pso-CcxkGus_qYmR7nmoeNo8z4rvlUCNaJVdR6VkhbXBMt6NsqrE7Wo3ysjIb_TWQEgLfroxpSDzsnJgsD1rdUdbtNwGns58ZW92HuB9BOnMOMuIlRTOrFGvKBzij3EhlqPkzNrd5thm3IN6u6yJ/s512/10260602.png",
-  jpeg: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhpKX2-ZVo6azybTvj3Vl3AtW4Oy2pRd9YhZrCsYYVsuzH7DSsmcx7v_OrSryY_A537ER9rhlysXcAVClkWN4I_VT7FNtsz_Vyztrt62U0Lodz611bmHyBb5mmZZZkJF75ZCw0ZEKYX2rS6x3vb09BVOTzGGZm2HLHgkAm9k-PyNePF9YYExjMAEIvIeXP/s512/jpeg-icon.png",
-  png: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Vw_IZLHStYLWLaLidFZ1No2av_DkU4UkZ_pki8oVyukaJPjtASiq6rkI41NIjdi1dRheNPouEzZD-6-rrmH_K7txCq55TSWYZYbGCqPCnEmPk9Um5QFkK8cpfPuFynniDGYpwa5TvH4dT2zKn36qzyJNVrsufDdSBWsZW8mYI-by8jbvKOaprPiJdcRb/s512/337948.png",
-  gif: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDkryULS8JC8QobL_zIoRCdyoSOGMIoVoP-KK-E1dnMp-HvmHwkHtfV7OQuwLgvyS90bYBJ-xmNPfUXPu1Iqs-T54U5cgdVgdmLmPI28kd-gbF8oPGBg0538apuQDcJFUy9FFEJHlhnphqiMPfFzye_-o0cNMMAtYB7ztPP78Q3UtziX3k9oPihwXxrvEr/s640/11237482.gif", "https://upload.wikimedia.org/wikipedia/commons/8/87/File_icon.svg"
+  default: "https://upload.wikimedia.org/wikipedia/commons/8/87/File_icon.svg"
 };
 
 function loadFiles() {
