@@ -12,6 +12,10 @@ const icons = {
   php: "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
   zip: "https://upload.wikimedia.org/wikipedia/commons/1/14/Deepin_Icon_Theme_%E2%80%93_application-x-zip_%2841%29.svg",
   rar: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Deepin_Icon_Theme_%E2%80%93_application-x-rar_%2830%29.svg",
+  jpg: "https://www.vecteezy.com/vector-art/379991-jpg-vector-icon",
+  jpeg: "https://upload.wikimedia.org/wikipedia/commons/2/24/Icon_round_Picture.svg",
+  png: "https://upload.wikimedia.org/wikipedia/commons/2/24/Icon_round_Picture.svg",
+  gif: "https://upload.wikimedia.org/wikipedia/commons/2/24/Icon_round_Picture.svg",
   default: "https://upload.wikimedia.org/wikipedia/commons/8/87/File_icon.svg"
 };
 
