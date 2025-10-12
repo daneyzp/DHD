@@ -16,7 +16,7 @@ const icons = {
   php: "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
   zip: "https://upload.wikimedia.org/wikipedia/commons/1/14/Deepin_Icon_Theme_%E2%80%93_application-x-zip_%2841%29.svg",
   rar: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Deepin_Icon_Theme_%E2%80%93_application-x-rar_%2830%29.svg",
-  default: "https://upload.wikimedia.org/wikipedia/commons/8/87/File_icon.svg"
+  default: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNCOzrzK3J0RskO1sKDtlFSkng5cq1Mn9vF7vjAAGMXbrOjqiEx2B6VL7prPKm_XiE_DE_89jiRg01npfB-BIoR7I9nSUqSbLvZG5DtCgs58Lx15Vzlzb_fHFGHWVrNSdNZVpWvNe3iO8dp0NPIOjAmIQtXY6sfNNh5hprqcB7hPpfmEOU3hgGrcxlP-1/s512/44386.png"
 };
 
 function loadFiles() {
