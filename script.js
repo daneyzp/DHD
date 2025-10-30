@@ -1,4 +1,4 @@
-const scriptURL = "https://script.google.com/macros/s/AKfycbw6juoHoRXc2K1OxDU4r1gUTMpL8lY5n9-d09lNMztAWK7zbFvrYDvZkzhka4AYgn6K/exec";
+const scriptURL = "https://script.google.com/macros/s/AKfycbxDxgAeZUcBfHEdmUSDa7zha7qeCvD6aI147o2tj2vDhk6KSlrJmBB2cfl4HkINMXbb/exec";
 
 const icons = {
   pdf: "https://daneyzp.github.io/DHD-menuel/pdf.png"
