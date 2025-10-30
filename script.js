@@ -1,8 +1,7 @@
 const scriptURL = "https://script.google.com/macros/s/AKfycbxDxgAeZUcBfHEdmUSDa7zha7qeCvD6aI147o2tj2vDhk6KSlrJmBB2cfl4HkINMXbb/exec";
 
 const icons = {
-  pdf: "https://daneyzp.github.io/DHD-menuel/pdf.png"
-//  pdf: "https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg",
+  pdf: "https://daneyzp.github.io/DHD-menuel/pdf.png",
   doc: "https://upload.wikimedia.org/wikipedia/commons/1/19/Microsoft_Office_Word_%282019%E2%80%932025%29.svg",
   docx: "https://upload.wikimedia.org/wikipedia/commons/f/fb/.docx_icon.svg",
   xls: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg",
