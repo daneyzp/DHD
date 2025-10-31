@@ -54,7 +54,7 @@ function loadFiles() {
       });
     })
     .catch(err => {
-      document.getElementById('fileContainer').innerHTML = "<p>Error fetching files. Please Refresh the Page again.</p>";
+      document.getElementById('fileContainer').innerHTML = "<p>Error loading files. Please Refresh the Page again.</p>";
     });
 }
 
